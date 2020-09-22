@@ -1,3 +1,3 @@
-status = 'Top'
-name = 'Kirill'
+status = input()
+name = input()
 print(name, '-', status)
